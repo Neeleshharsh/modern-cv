@@ -684,6 +684,7 @@ footer {
 @media (max-width: 576px) {
     section.profile {
         align-items: center; 
+        
     }
 
     section.profile .right {
@@ -695,6 +696,7 @@ footer {
 
     section.work .wrapper .portfolio .tabs ul{
         flex-wrap: wrap;
+        
     }
     section.work .wrapper .portfolio .tabs ul li {
         margin-bottom: 4rem;
@@ -702,6 +704,7 @@ footer {
 
     section.work .wrapper .portfolio .portfolio__wrapper {
         margin-top: 0;
+        
     }
 
     section.contact .wrapper .right .form__group {
